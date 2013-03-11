@@ -378,7 +378,7 @@
 
   <!-- OpenSEMC repositories needed for Nozomi -->
 
-  <project path="device/sony/nozomi" name="android_device_sony_nozomi" remote="opensemc" revision="cm-10.1" />
+  <project path="device/sony/nozomi" name="android_device_sony_nozomi" remote="opensemc" revision="jb-mr1" />
   <project path="device/sony/common" name="android_device_sony_common" remote="opensemc" revision="cm-10.1" />
   <project path="device/sony/qcom-common" name="android_device_sony_qcom-common" remote="opensemc" revision="cm-10.1" />
   <project path="device/sony/fuji-common" name="android_device_sony_fuji-common" remote="opensemc" revision="cm-10.1" />
